@@ -1,5 +1,5 @@
 _repo: Geschichte-des-Agathon-Teil-2_2314
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Bildungsromans'
 - !lcc 'PT'
 - !lcsh 'Greece -- Fiction'
+- GITenberg
 title: Geschichte des Agathon. Teil 2
 url: http://www.gutenberg.org/ebooks/2314
